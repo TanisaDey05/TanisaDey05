@@ -6,7 +6,7 @@
 - 🌱 I’m currently studying **B.Tech 2nd year, first semester at RCC Institute of Information Technology**.
 - 💬 Feel free to ask me about **any of my repositories**.
 - 📫 You can reach me at **[deytanisa2@gmail.com](mailto:deytanisa2@gmail.com)**.
-- ⚡ Fun fact: **I am also a singer!**
+- ⚡ Fun fact: **I am also a dancer!**
 
 ---
 
