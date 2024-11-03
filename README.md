@@ -20,9 +20,9 @@
 <details>
   <summary><b>Github Stats🐼</b></summary><br>
  <p align="center">
-   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TanisaDey05&show_icons=true&locale=en&theme=onedark" alt="TanisaDey05" />
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanisaDey05&theme=onedark" alt="TanisaDey05" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TanisaDey05&show_icons=true&locale=en&layout=compact&theme=onedark" alt="TanisaDey05" />
+   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TanisaDey05&show_icons=true&locale=en&theme=nightowl&hide" alt="TanisaDey05" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanisaDey05&theme=nightowl&hide" alt="TanisaDey05" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TanisaDey05&show_icons=true&locale=en&layout=compact&theme=nightowl&hide" alt="TanisaDey05" />
  </p>
 </details>
 
