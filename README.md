@@ -1,11 +1,11 @@
 # <h1 align="center">Hi 👋, I'm Tanisa Dey</h1>
 
-### A passionate programmer and backend developer from India, fascinated by the amazing world of cybersecurity, cloud, and a unique blend of AI & ML.
+### A passionate programmer and frontend developer from India, fascinated by the amazing world of cybersecurity, cloud, and a unique blend of AI & ML.
 ---
 
 - 🌱 I’m currently studying **B.Tech 2nd year, first semester at RCC Institute of Information Technology**.
 - 💬 Feel free to ask me about **any of my repositories**.
-- 📫 You can reach me at **[deytanisa2@gmail.com](mailto:deytanisa2@gmail.com)**.
+- 📫 You can reach me at **[deytanisa22@gmail.com](mailto:deytanisa22@gmail.com)**.
 - ⚡ Fun fact: **I am also a dancer!**
 
 ---
